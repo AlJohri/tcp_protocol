@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="all" />
+	<File name="Minet.cc" open="1" top="0" tabpos="17">
+		<Cursor position="30368" topLine="1199" />
+	</File>
+	<File name="Minet.h" open="1" top="0" tabpos="7">
+		<Cursor position="536" topLine="14" />
+	</File>
+	<File name="Monitor.cc" open="0" top="0" tabpos="20">
+		<Cursor position="2350" topLine="48" />
+	</File>
+	<File name="Monitor.h" open="0" top="0" tabpos="18">
+		<Cursor position="905" topLine="0" />
+	</File>
+	<File name="app.cc" open="1" top="0" tabpos="11">
+		<Cursor position="167" topLine="0" />
+	</File>
+	<File name="arp.cc" open="0" top="0" tabpos="27">
+		<Cursor position="7541" topLine="270" />
+	</File>
+	<File name="arp.h" open="1" top="0" tabpos="26">
+		<Cursor position="643" topLine="0" />
+	</File>
+	<File name="arp_module.cc" open="0" top="0" tabpos="45">
+		<Cursor position="295" topLine="0" />
+	</File>
+	<File name="bitsource.cc" open="0" top="0" tabpos="35">
+		<Cursor position="1486" topLine="60" />
+	</File>
+	<File name="bitsource.h" open="0" top="0" tabpos="39">
+		<Cursor position="656" topLine="0" />
+	</File>
+	<File name="buffer.cc" open="1" top="0" tabpos="21">
+		<Cursor position="2495" topLine="111" />
+	</File>
+	<File name="buffer.h" open="0" top="0" tabpos="2">
+		<Cursor position="2109" topLine="34" />
+	</File>
+	<File name="config.h" open="0" top="0" tabpos="36">
+		<Cursor position="246" topLine="0" />
+	</File>
+	<File name="constate.cc" open="0" top="0" tabpos="15">
+		<Cursor position="1160" topLine="26" />
+	</File>
+	<File name="constate.h" open="1" top="0" tabpos="24">
+		<Cursor position="157" topLine="0" />
+	</File>
+	<File name="debug.cc" open="1" top="0" tabpos="2">
+		<Cursor position="2956" topLine="86" />
+	</File>
+	<File name="debug.h" open="1" top="0" tabpos="8">
+		<Cursor position="3127" topLine="59" />
+	</File>
+	<File name="device_driver.cc" open="0" top="0" tabpos="44">
+		<Cursor position="1207" topLine="21" />
+	</File>
+	<File name="device_driver2.cc" open="0" top="0" tabpos="70">
+		<Cursor position="0" topLine="39" />
+	</File>
+	<File name="error.h" open="1" top="0" tabpos="22">
+		<Cursor position="465" topLine="0" />
+	</File>
+	<File name="ethernet.cc" open="1" top="0" tabpos="6">
+		<Cursor position="2859" topLine="103" />
+	</File>
+	<File name="ethernet.h" open="0" top="0" tabpos="7">
+		<Cursor position="1119" topLine="1" />
+	</File>
+	<File name="ethernet_mux.cc" open="0" top="0" tabpos="42">
+		<Cursor position="281" topLine="0" />
+	</File>
+	<File name="headertrailer.cc" open="0" top="0" tabpos="23">
+		<Cursor position="562" topLine="0" />
+	</File>
+	<File name="headertrailer.h" open="0" top="0" tabpos="5">
+		<Cursor position="377" topLine="0" />
+	</File>
+	<File name="http_client.cc" open="1" top="0" tabpos="9">
+		<Cursor position="1257" topLine="51" />
+	</File>
+	<File name="http_server1.cc" open="1" top="0" tabpos="10">
+		<Cursor position="2403" topLine="87" />
+	</File>
+	<File name="http_server2.cc" open="1" top="0" tabpos="13">
+		<Cursor position="1777" topLine="150" />
+	</File>
+	<File name="http_server3.cc" open="1" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="icmp.cc" open="0" top="0" tabpos="29">
+		<Cursor position="14191" topLine="500" />
+	</File>
+	<File name="icmp.h" open="0" top="0" tabpos="9">
+		<Cursor position="4036" topLine="56" />
+	</File>
+	<File name="icmp_app.cc" open="0" top="0" tabpos="63">
+		<Cursor position="152" topLine="0" />
+	</File>
+	<File name="icmp_module.cc" open="0" top="0" tabpos="37">
+		<Cursor position="2772" topLine="93" />
+	</File>
+	<File name="ip.cc" open="0" top="0" tabpos="28">
+		<Cursor position="6679" topLine="318" />
+	</File>
+	<File name="ip.h" open="0" top="0" tabpos="8">
+		<Cursor position="4189" topLine="94" />
+	</File>
+	<File name="ip_module.cc" open="0" top="0" tabpos="48">
+		<Cursor position="356" topLine="0" />
+	</File>
+	<File name="ip_module_diffusion.cc" open="0" top="0" tabpos="46">
+		<Cursor position="541" topLine="0" />
+	</File>
+	<File name="ip_module_routing.cc" open="0" top="0" tabpos="47">
+		<Cursor position="281" topLine="0" />
+	</File>
+	<File name="ip_mux.cc" open="0" top="0" tabpos="50">
+		<Cursor position="289" topLine="0" />
+	</File>
+	<File name="ipother_module.cc" open="0" top="0" tabpos="53">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="minet_socket.cc" open="1" top="1" tabpos="3">
+		<Cursor position="71421" topLine="1014" />
+	</File>
+	<File name="minet_socket.h" open="1" top="0" tabpos="4">
+		<Cursor position="45" topLine="0" />
+	</File>
+	<File name="monitor.cc" open="0" top="0" tabpos="41">
+		<Cursor position="414" topLine="6" />
+	</File>
+	<File name="other_module.cc" open="0" top="0" tabpos="49">
+		<Cursor position="313" topLine="0" />
+	</File>
+	<File name="packet.cc" open="0" top="0" tabpos="24">
+		<Cursor position="5309" topLine="209" />
+	</File>
+	<File name="packet.h" open="0" top="0" tabpos="3">
+		<Cursor position="2052" topLine="27" />
+	</File>
+	<File name="packet_queue.h" open="0" top="0" tabpos="25">
+		<Cursor position="116" topLine="0" />
+	</File>
+	<File name="raw_ethernet_packet.cc" open="0" top="0" tabpos="26">
+		<Cursor position="1926" topLine="43" />
+	</File>
+	<File name="raw_ethernet_packet.h" open="0" top="0" tabpos="6">
+		<Cursor position="734" topLine="0" />
+	</File>
+	<File name="reader.cc" open="0" top="0" tabpos="72">
+		<Cursor position="0" topLine="36" />
+	</File>
+	<File name="route.cc" open="0" top="0" tabpos="38">
+		<Cursor position="191" topLine="0" />
+	</File>
+	<File name="sock_mod_structs.cc" open="0" top="0" tabpos="32">
+		<Cursor position="323" topLine="0" />
+	</File>
+	<File name="sock_mod_structs.h" open="0" top="0" tabpos="13">
+		<Cursor position="1099" topLine="0" />
+	</File>
+	<File name="sock_module.cc" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="315" />
+	</File>
+	<File name="sock_test_app.cc" open="1" top="0" tabpos="19">
+		<Cursor position="2224" topLine="43" />
+	</File>
+	<File name="sock_test_tcp.cc" open="0" top="0" tabpos="58">
+		<Cursor position="317" topLine="0" />
+	</File>
+	<File name="sockint.cc" open="1" top="0" tabpos="18">
+		<Cursor position="0" topLine="192" />
+	</File>
+	<File name="sockint.h" open="1" top="0" tabpos="5">
+		<Cursor position="4332" topLine="116" />
+	</File>
+	<File name="tcp.cc" open="0" top="0" tabpos="31">
+		<Cursor position="103" topLine="0" />
+	</File>
+	<File name="tcp.h" open="0" top="0" tabpos="11">
+		<Cursor position="2717" topLine="49" />
+	</File>
+	<File name="tcp_client.cc" open="1" top="0" tabpos="16">
+		<Cursor position="1935" topLine="57" />
+	</File>
+	<File name="tcp_module.cc" open="1" top="0" tabpos="23">
+		<Cursor position="12114" topLine="849" />
+	</File>
+	<File name="tcp_server.cc" open="0" top="0" tabpos="61">
+		<Cursor position="152" topLine="0" />
+	</File>
+	<File name="tcpstate.cc" open="0" top="0" tabpos="34">
+		<Cursor position="2131" topLine="49" />
+	</File>
+	<File name="tcpstate.h" open="0" top="0" tabpos="33">
+		<Cursor position="2682" topLine="71" />
+	</File>
+	<File name="test_arp.cc" open="0" top="0" tabpos="62">
+		<Cursor position="247" topLine="0" />
+	</File>
+	<File name="test_bitsource.cc" open="0" top="0" tabpos="64">
+		<Cursor position="110" topLine="0" />
+	</File>
+	<File name="udp.cc" open="0" top="0" tabpos="30">
+		<Cursor position="2886" topLine="102" />
+	</File>
+	<File name="udp.h" open="0" top="0" tabpos="10">
+		<Cursor position="1377" topLine="6" />
+	</File>
+	<File name="udp_client.cc" open="1" top="0" tabpos="15">
+		<Cursor position="2153" topLine="65" />
+	</File>
+	<File name="udp_module.cc" open="0" top="0" tabpos="51">
+		<Cursor position="3433" topLine="84" />
+	</File>
+	<File name="udp_server.cc" open="1" top="0" tabpos="12">
+		<Cursor position="136" topLine="45" />
+	</File>
+	<File name="util.cc" open="0" top="0" tabpos="69">
+		<Cursor position="111" topLine="0" />
+	</File>
+	<File name="util.h" open="0" top="0" tabpos="1">
+		<Cursor position="196" topLine="9" />
+	</File>
+	<File name="writer.cc" open="1" top="0" tabpos="20">
+		<Cursor position="1218" topLine="51" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="minet" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="all">
+				<Option output="bin/minet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Minet.cc" />
+		<Unit filename="Minet.h" />
+		<Unit filename="Monitor.cc" />
+		<Unit filename="Monitor.h" />
+		<Unit filename="app.cc" />
+		<Unit filename="arp.cc" />
+		<Unit filename="arp.h" />
+		<Unit filename="arp_module.cc" />
+		<Unit filename="bitsource.cc" />
+		<Unit filename="bitsource.h" />
+		<Unit filename="bridge.cc" />
+		<Unit filename="buffer.cc" />
+		<Unit filename="buffer.h" />
+		<Unit filename="config.cc" />
+		<Unit filename="config.h" />
+		<Unit filename="constate.cc" />
+		<Unit filename="constate.h" />
+		<Unit filename="debug.cc" />
+		<Unit filename="debug.h" />
+		<Unit filename="device_driver.cc" />
+		<Unit filename="device_driver2.cc" />
+		<Unit filename="error.cc" />
+		<Unit filename="error.h" />
+		<Unit filename="ethernet.cc" />
+		<Unit filename="ethernet.h" />
+		<Unit filename="ethernet_mux.cc" />
+		<Unit filename="header.h" />
+		<Unit filename="headertrailer.cc" />
+		<Unit filename="headertrailer.h" />
+		<Unit filename="http_client.cc" />
+		<Unit filename="http_server1.cc" />
+		<Unit filename="http_server2.cc" />
+		<Unit filename="http_server3.cc" />
+		<Unit filename="icmp.cc" />
+		<Unit filename="icmp.h" />
+		<Unit filename="icmp_app.cc" />
+		<Unit filename="icmp_module.cc" />
+		<Unit filename="ip.cc" />
+		<Unit filename="ip.h" />
+		<Unit filename="ip_module.cc" />
+		<Unit filename="ip_module_diffusion.cc" />
+		<Unit filename="ip_module_routing.cc" />
+		<Unit filename="ip_mux.cc" />
+		<Unit filename="ipother_module.cc" />
+		<Unit filename="minet_socket.cc" />
+		<Unit filename="minet_socket.h" />
+		<Unit filename="monitor.cc" />
+		<Unit filename="other_module.cc" />
+		<Unit filename="packet.cc" />
+		<Unit filename="packet.h" />
+		<Unit filename="packet_buffer.h" />
+		<Unit filename="packet_queue.cc" />
+		<Unit filename="packet_queue.h" />
+		<Unit filename="raw_ethernet_packet.cc" />
+		<Unit filename="raw_ethernet_packet.h" />
+		<Unit filename="raw_ethernet_packet_buffer.cc" />
+		<Unit filename="raw_ethernet_packet_buffer.h" />
+		<Unit filename="reader.cc" />
+		<Unit filename="route.cc" />
+		<Unit filename="route.h" />
+		<Unit filename="sock.h" />
+		<Unit filename="sock_mod_structs.cc" />
+		<Unit filename="sock_mod_structs.h" />
+		<Unit filename="sock_module.cc" />
+		<Unit filename="sock_test_app.cc" />
+		<Unit filename="sock_test_tcp.cc" />
+		<Unit filename="sockint.cc" />
+		<Unit filename="sockint.h" />
+		<Unit filename="tcp.cc" />
+		<Unit filename="tcp.h" />
+		<Unit filename="tcp_client.cc" />
+		<Unit filename="tcp_module.cc" />
+		<Unit filename="tcp_module_stub.cc" />
+		<Unit filename="tcp_server.cc" />
+		<Unit filename="tcpstate.cc" />
+		<Unit filename="tcpstate.h" />
+		<Unit filename="test_arp.cc" />
+		<Unit filename="test_bitsource.cc" />
+		<Unit filename="test_raw_ethernet_packet_buffer.cc" />
+		<Unit filename="test_reader.cc" />
+		<Unit filename="test_writer.cc" />
+		<Unit filename="udp.cc" />
+		<Unit filename="udp.h" />
+		<Unit filename="udp_client.cc" />
+		<Unit filename="udp_module.cc" />
+		<Unit filename="udp_server.cc" />
+		<Unit filename="util.cc" />
+		<Unit filename="util.h" />
+		<Unit filename="writer.cc" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
